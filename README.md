@@ -2,7 +2,8 @@
 
 3SE fork of [QDU-Robomaster/CMD](https://github.com/QDU-Robomaster/CMD)
 at `37b7700e9cce3ee74601d9fdcb67961792a21359` (Apache-2.0). Upstream
-CLI examples below use the QDU namespace; this copy is currently local.
+CLI examples below retain the QDU namespace; this repository is published at
+https://github.com/3SE-xrobot-dev/CMD.
 
 控制命令中枢：汇总遥控器与上位机输入，发布底盘、云台、发射命令 / Control command hub that merges remote-controller and host inputs and publishes chassis, gimbal and launcher commands
 
